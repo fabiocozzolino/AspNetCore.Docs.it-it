@@ -1,7 +1,7 @@
 ---
 title: Creazione di applicazioni Web progressive con Blazor ASP.NET Core webassembly
 author: guardrex
-description: Informazioni su come creare un' Blazorapplicazione Web progressiva basata su (PWA) che usa le funzionalità moderne del browser per comportarsi come un'app desktop.
+description: Informazioni su come creare una Blazor applicazioni Web progressive basata su (PWA) che usa le funzionalità moderne del browser per comportarsi come un'app desktop.
 monikerRange: '>= aspnetcore-3.1'
 ms.author: riande
 ms.custom: mvc
@@ -20,7 +20,7 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 05/04/2020
 ms.locfileid: "82771559"
 ---
-# <a name="build-progressive-web-applications-with-aspnet-core-blazor-webassembly"></a>Creazione di applicazioni Web progressive con ASP.NET Core webassembly di Blazer
+# <a name="build-progressive-web-applications-with-aspnet-core-blazor-webassembly"></a>Creazione di applicazioni Web progressive con ASP.NET Core webassembly di Blazor
 
 Di [Steve Sanderson](https://github.com/SteveSandersonMS)
 
